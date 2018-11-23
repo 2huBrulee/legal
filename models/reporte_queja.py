@@ -7,4 +7,3 @@ class ReporteQueja(models.Model):
 
 	tomado = fields.Text()
 
-	
