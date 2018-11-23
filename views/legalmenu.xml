@@ -1,0 +1,10 @@
+<?xml  version="1.0"?>  
+<odoo>  
+  <act_window  id="action_legal"  
+      name="Modulo Legal"  
+      res_model="legal.myconf"
+      view_mode="tree,form"  />  
+  <menuitem  id="menu_legal"  
+      name="Modulo Legal"  
+      action="action_legal"  />  
+</odoo>
